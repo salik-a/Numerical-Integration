@@ -1,0 +1,28 @@
+  In this project, program developed for find the numerical integration with midpoint and trapezoid composite quadrature rules and our goal was finding solution with the program and compare with the true solutions, also we had to analyze and compare methods.These are the equations and solutions that solved by program.As you can see there is a small difference between program values and calculated values it depends on tolerance rate.
+
+					
+
+1)4/(1+x^2)	
+
+Composite midpoint rule solution:
+3.1415932
+Composite trapezoid rule solution:
+3.1415942
+
+2)x^(1/2)*log(x)
+
+Composite midpoint rule solution:
+-0.444458
+Composite trapezoid rule solution:
+-0.4443945		
+
+True solutions;
+
+1-4/(1+x^2)		=3.143965
+2-x^(1/2)*log(x)	=-0.444444			
+			
+
+
+			
+ 
+		
